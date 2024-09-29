@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/76.0.0.24.67;FBBV/29581442;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/vodafone GR;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC Desire 816 dual sim;FBSV/5.0.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880536;FBDM/{density=1.5,width=540,height=960};FBLC/my_MM;FBCR/MPT;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1707;FBSV/9.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
