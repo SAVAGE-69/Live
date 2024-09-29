@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/76.0.0.24.67;FBBV/29581442;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/vodafone GR;FBMF/HTC;FBBD/htc;FBPN/com.facebook.katana;FBDV/HTC Desire 816 dual sim;FBSV/5.0.2;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/167.0.0.33.94;FBBV/101783969;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/0;FBCR/StarHub Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A37f;FBSV/10;FBOP/19;FBCA/armeabi-v7a:armeabi;]
